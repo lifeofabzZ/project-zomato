@@ -1,2 +1,2 @@
-# project-zomato
-self-web creation
+# zomato-clone
+front end devop
